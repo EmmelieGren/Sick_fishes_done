@@ -1,3 +1,4 @@
+#Yaml_file for yolov5
 
 path: ../  # dataset root dir
 train: train/  # train images (relative to 'path')
